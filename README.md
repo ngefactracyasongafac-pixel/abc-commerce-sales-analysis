@@ -54,11 +54,11 @@ This is a **simulated client project** created for learning and portfolio develo
 
 ### Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard%20.png)
 
 ### Analysis
 
-![Analysis](Analysis.png)
+![Analysis](Analysis%20.png)
 
 ### Pivot Table
 
