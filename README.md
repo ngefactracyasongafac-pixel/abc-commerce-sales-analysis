@@ -50,3 +50,16 @@ This project analyzes 5,000 e-commerce transactions to prepare sales data, calcu
 ## Project Type
 
 This is a **simulated client project** created for learning and portfolio development. It is not paid client work.
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Analysis
+
+![Analysis](Analysis.png)
+
+### Pivot Table
+
+![Pivot Table](Pivot%20table.png)
